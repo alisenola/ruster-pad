@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "rustpad-server",
+    "rustpad-wasm",
+]
